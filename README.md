@@ -1,7 +1,8 @@
-# ¡Hola! Soy María Acosta 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,30&height=200&section=header&text=¡Hola!%20Soy%20María%20Acosta&fontSize=60&animation=fadeIn)
 
 ### 👩‍🏫 Sobre mí
-> Soy **Maestra de Ciencias Comerciales**, apasionada por la intersección entre la educación empresarial y la tecnología. Mi objetivo es modernizar la enseñanza comercial integrando herramientas que preparen a los estudiantes para los entornos laborales del futuro.
+> [!TIP]
+> **Maestra de Ciencias Comerciales** > Apasionada por la intersección entre la educación empresarial y la tecnología. Mi objetivo es modernizar la enseñanza comercial integrando herramientas que preparen a los estudiantes para los entornos laborales del futuro.
 ## Tecnologías y herramientas
 A lo largo de mi formación en este bootcamp, he desarrollado habilidades en:
 ### 🛠️ Tecnologías y herramientas
@@ -20,5 +21,3 @@ A lo largo de mi formación en este bootcamp, he desarrollado habilidades en:
 * **Enlace:**https://notebooklm.google.com/notebook/3ebe2585-401e-41eb-9c8f-e41e6fcfa79a?authuser=1
 
   *  **Correo electrónico:** mariaacosta.ga08@gmail.com
-  *  ### 📈 Mis Estadísticas de GitHub
-![Estadísticas de María](https://github-readme-stats.vercel.app/api?username=mariaacostaga08-code&show_icons=true&theme=radical&border_radius=10)
