@@ -1,13 +1,16 @@
-## !Hola¡ Soy María Acosta 👋
+# ¡Hola! Soy María Acosta 👋
+
 ### 👩‍🏫 Sobre mí
-Soy **Maestra de Ciencias Comerciales**,apasionada por la intersección entre la educación empresarial y la tecnología. Mi objetivo es modernizar la enseñanza comercial integrando herramientas que preparen a los estudiantes para los entornos laborales del futuro.
+> Soy **Maestra de Ciencias Comerciales**, apasionada por la intersección entre la educación empresarial y la tecnología. Mi objetivo es modernizar la enseñanza comercial integrando herramientas que preparen a los estudiantes para los entornos laborales del futuro.
 ## Tecnologías y herramientas
 A lo largo de mi formación en este bootcamp, he desarrollado habilidades en:
-* **IA** Las diferentes herramientas de la IA,estructura de un promt.
-* **Automatización:** (como n8n).
-* **Control de versiones:** Git y GitHub.
-* **Lenguajes y Marcado:** Markdown, HTML básicos.
-* **Gestión:** Google Workspace, herramientas de colaboración en la nube.
+### 🛠️ Tecnologías y herramientas
+
+![IA](https://img.shields.io/badge/IA-Prompt_Engineering-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/Automatización-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ## Proyectos destacados
 ### 🚀 [ProyectoRAG_Acosta.]
 * **Descripción:**  Sistema de IA personalizada que permite realizar consultas precisas sobre normativas de Ciencias Comerciales y documentos educativos, garantizando respuestas basadas exclusivamente en fuentes oficiales.
