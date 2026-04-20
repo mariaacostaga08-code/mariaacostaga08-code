@@ -31,4 +31,4 @@ A lo largo de mi formación en este bootcamp, he desarrollado habilidades en:
 * **Enlace:**https://notebooklm.google.com/notebook/3ebe2585-401e-41eb-9c8f-e41e6fcfa79a?authuser=1
 ### ✉️ **Contacto**
 
-* 📧 **Correo Electrónico:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)**Correo electrónico:** mariaacosta.ga08@gmail.com
+* 📧 **Correo electrónico:** mariaacosta.ga08@gmail.com
