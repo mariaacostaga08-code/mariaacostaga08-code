@@ -12,4 +12,5 @@ A lo largo de mi formación en este bootcamp, he desarrollado habilidades en:
 ### 🚀 [ProyectoRAG_Acosta.]
 * **Descripción:**  Sistema de IA personalizada que permite realizar consultas precisas sobre normativas de Ciencias Comerciales y documentos educativos, garantizando respuestas basadas exclusivamente en fuentes oficiales.
 * **Enlace:**https://notebooklm.google.com/notebook/3ebe2585-401e-41eb-9c8f-e41e6fcfa79a?authuser=1
- **Correo electrónico:** mariaacosta.ga08@gmail.com
+
+    **Correo electrónico:** mariaacosta.ga08@gmail.com
