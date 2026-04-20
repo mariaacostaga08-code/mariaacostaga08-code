@@ -8,9 +8,10 @@ A lo largo de mi formación en este bootcamp, he desarrollado habilidades en:
 
 ![IA](https://img.shields.io/badge/IA-Prompt_Engineering-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/Automatización-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Git y GitHub](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🚀 Proyectos Destacados
 
@@ -28,4 +29,6 @@ A lo largo de mi formación en este bootcamp, he desarrollado habilidades en:
 ![Status](https://img.shields.io/badge/Estado-En_Desarrollo-green?style=flat-square)
 * 🔗 [Ver Proyecto](https://notebooklm.google.com/notebook/3ebe2585-401e-41eb-9c8f-e41e6fcfa79a?authuser=1)
 * **Enlace:**https://notebooklm.google.com/notebook/3ebe2585-401e-41eb-9c8f-e41e6fcfa79a?authuser=1
-* Contacto **Correo electrónico:** mariaacosta.ga08@gmail.com
+### ✉️ **Contacto**
+
+* 📧 **Correo Electrónico:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)**Correo electrónico:** mariaacosta.ga08@gmail.com
